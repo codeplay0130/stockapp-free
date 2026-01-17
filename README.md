@@ -12,28 +12,86 @@
   👉 <a href="https://code-play.shop/stockapp/free/" target="_blank"><b>Try it now</b></a>
 </p>
 
+---
 
+## 🚀 Introduction
 
-
-# stockapp-free
-Free online stock analysis app with technical indicators and interactive charts.
-
-A free, web-based stock analysis app that helps users visualize price trends, explore technical indicators, and analyze the market more efficiently.
-
-**Try it now:**  
-🌐 https://code-play.shop/stockapp/free/
+StockApp Free is a lightweight, web-based stock analysis tool built for investors, learners, and market enthusiasts.  
+No installation required — open it in your browser and start analyzing immediately.
 
 ---
 
-## Introduction 
+## ✨ Features
 
-StockApp Free is a lightweight online stock analysis tool built for investors, learners, and market enthusiasts.  
-No installation required — open it in your browser and start analyzing immediately.
+- 📈 Interactive stock charts  
+- 📊 Technical indicators visualization  
+- 🧠 Beginner-friendly, powerful enough for advanced users  
+- 🌐 100% web-based, no installation required  
+- ⚡ Fast, simple, and focused on usability  
 
-## Source Code Policy
+---
 
-This project is NOT open source.
+## 🧭 How to Use
 
-This repository is for product updates, documentation, and user feedback only.  
+1. Open the website  
+2. Enter a stock symbol  
+3. Select indicators and timeframes  
+4. Start analyzing  
+
+---
+
+## 🖼 Screenshots
+
+> Upload 1–4 screenshots to the `/images` folder and update the links below.
+
+<p align="center">
+  <img src="images/line.png" width="45%">
+  <img src="images/MACD.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/RSI.png" width="45%">
+  <img src="images/SMA_backtest.png" width="45%">
+</p>
+
+---
+
+## 📌 Project Status
+
+- ✅ Publicly available  
+- 🔄 Actively improving  
+- 🧩 More features planned  
+- 🚀 Long-term product development  
+
+---
+
+## 🔒 Source Code Policy
+
+This project is **NOT open source**.
+
+This repository is used for:
+
+- Product introduction  
+- Updates & announcements  
+- Issue tracking  
+- User feedback  
+
 All application source code is privately maintained.
+
+---
+
+## 💬 Feedback
+
+Have ideas, feature requests, or found a bug?  
+Please use **GitHub Issues** to let us know.
+
+---
+
+## 🌱 Vision
+
+Building practical financial tools that make market analysis simpler, smarter, and more accessible.
+
+---
+
+⭐ If you find this project useful, consider giving it a star — it helps a lot!
 
