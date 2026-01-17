@@ -10,25 +10,32 @@
 </p>
 
 <p align="center">
-  👉 <a href="https://code-play.shop/stockapp/free/" target="_blank"><b>Try it now</b></a>
+  <a href="https://code-play.shop/stockapp/free/" target="_blank">
+    <img src="images/try_now.png" alt="Try it now" width="220">
+  </a>
 </p>
 
 ---
 
 ## 🚀 Introduction
 
-StockApp Free is a **lightweight, web-based stock analysis tool** for investors, learners, and market enthusiasts.  
+StockApp Free is a **lightweight, web-based stock analysis tool** designed for:
+
+- Investors looking for fast insights  
+- Learners who want to practice technical analysis  
+- Market enthusiasts who want interactive charts  
+
 No installation required — just open your browser and start analyzing immediately.  
 
 ---
 
 ## ✨ Features
 
-- 📈 Real-time interactive stock charts  
-- 📊 Track technical indicators: RSI, MACD, SMA  
-- ⚡ Simple interface for beginners, advanced tools for pros  
-- 🌐 100% web-based, no installation required  
-- 🧠 Fast, focused, and beginner-friendly  
+- 📈 **Real-time interactive stock charts**  
+- 📊 **Track technical indicators**: RSI, MACD, SMA  
+- ⚡ **Simple interface** for beginners, **advanced tools** for pros  
+- 🌐 **100% web-based**, works on any device  
+- 🧠 **Fast, focused, and beginner-friendly**
 
 ---
 
@@ -40,12 +47,15 @@ No installation required — just open your browser and start analyzing immediat
 4. Start analyzing  
 
 <p align="center">
-  👉 <a href="https://code-play.shop/stockapp/free/" target="_blank"><b>Try it now</b></a>
+  <a href="https://code-play.shop/stockapp/free/" target="_blank">
+    <img src="images/try_now.png" alt="Try it now" width="200">
+  </a>
 </p>
 
 ---
 
 ## 🖼 Screenshots
+
 <p align="center">
   <img src="images/line.png" width="45%">
   <img src="images/MACD.png" width="45%">
@@ -60,10 +70,10 @@ No installation required — just open your browser and start analyzing immediat
 
 ## 📌 Project Status
 
-- ✅ Live and accessible online  
-- 🔄 Actively improving with new features  
-- 🧩 Planned: more indicators & backtesting tools  
-- 🚀 Vision: practical financial tools for everyone  
+- ✅ **Live and accessible online**  
+- 🔄 **Actively improving** with new features  
+- 🧩 **Planned**: more indicators & backtesting tools  
+- 🚀 **Vision**: practical financial tools for everyone  
 
 ---
 
@@ -94,11 +104,13 @@ Building practical financial tools that make market analysis **simpler, smarter,
 
 ---
 
+## 🌐 Follow Us
+
 <p align="center">
-  <a href="https://www.youtube.com/@Code_Play_com" target="_blank">YouTube</a> |
-  <a href="https://www.facebook.com/codeplay0130/" target="_blank">Facebook</a>
-  <a href="https://www.instagram.com/codeplay0130/" target="_blank">instagram</a>
-  <a href="https://x.com/Code_Play_/" target="_blank">twitter</a>
+  <a href="https://www.youtube.com/@Code_Play_com" target="_blank">🎥 YouTube</a> | 
+  <a href="https://www.facebook.com/codeplay0130/" target="_blank">📘 Facebook</a> | 
+  <a href="https://www.instagram.com/codeplay0130/" target="_blank">📸 Instagram</a> | 
+  <a href="https://x.com/Code_Play_/" target="_blank">🐦 Twitter</a>
 </p>
 
 ---
