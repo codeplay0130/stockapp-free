@@ -41,9 +41,6 @@ No installation required — open it in your browser and start analyzing immedia
 ---
 
 ## 🖼 Screenshots
-
-> Upload 1–4 screenshots to the `/images` folder and update the links below.
-
 <p align="center">
   <img src="images/line.png" width="45%">
   <img src="images/MACD.png" width="45%">
