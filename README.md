@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="images/logo(stockappfree).png" width="180">
+</p>
+
+<h1 align="center">StockApp Free</h1>
+
+<p align="center">
+  Free online stock analysis app with technical indicators and interactive charts.
+</p>
+
+<p align="center">
+  👉 <a href="https://code-play.shop/stockapp/free/" target="_blank"><b>Try it now</b></a>
+</p>
+
+
+
+
 # stockapp-free
 Free online stock analysis app with technical indicators and interactive charts.
 
