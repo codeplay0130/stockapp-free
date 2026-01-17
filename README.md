@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://code-play.shop/stockapp/free/" target="_blank">
+    <alt="Try it now" width="200">
   </a>
 </p>
 
@@ -47,9 +48,9 @@ No installation required — just open your browser and start analyzing immediat
 
 <p align="center">
   <a href="https://code-play.shop/stockapp/free/" target="_blank">
+    <alt="Try it now" width="200">
   </a>
-</p>
-
+</p
 ---
 
 ## 🖼 Screenshots
