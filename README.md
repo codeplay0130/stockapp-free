@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo(stockappfree).png" width="180">
+  <img src="images/logo.png" width="180">
 </p>
 
 <h1 align="center">StockApp Free</h1>
