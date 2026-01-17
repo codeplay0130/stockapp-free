@@ -40,9 +40,7 @@ No installation required — just open your browser and start analyzing immediat
 4. Start analyzing  
 
 <p align="center">
-👉 <a href="https://code-play.shop/stockapp/free/" target="_blank">
-    <img src="images/try_now.png" alt="Try it now" width="200">
-  </a>
+  👉 <a href="https://code-play.shop/stockapp/free/" target="_blank"><b>Try it now</b></a>
 </p>
 
 ---
